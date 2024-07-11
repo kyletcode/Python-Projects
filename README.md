@@ -1,1 +1,1 @@
-These are all the python simple programs I have made over the during or after school.
+These are all the simple Python programs I have made during or after school.
